@@ -4,7 +4,11 @@
 
 Step 2: Enter the IP of your PS4
 
-Step 3: Have fun!
+Step 3: Select your application/game/theme and hit install.
+
+Step 4: Have fun!
+
+<b>After the application/game/theme has been installed the website will give you the option of uninstalling it as well.</b>
 
 <b>Make sure to run the Remote Package Manager on the console before visiting the website.</b>
 
