@@ -12,7 +12,7 @@ Step 3: Select your application/game/theme and hit install.
 
 Step 4: Have fun!
 
-<b>**Make sure to run the Remote Package Manager on the console before visiting the website.</b>
+<b>**Make sure to run the Remote Package Installer on the console before visiting the website.</b>
 
 ----------
 
