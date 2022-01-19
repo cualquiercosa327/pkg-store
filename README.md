@@ -1,8 +1,8 @@
 # PS4 PKG Store
 
 <p align="center">
-<img alt="Store Home" src="https://raw.githubusercontent.com/upal212/pkg-store/master/store-home.png"/></p>
-<img alt="Store Demo" src="https://raw.githubusercontent.com/upal212/pkg-store/master/store-demo.png"/></p>
+<img alt="Store Home" src="https://raw.githubusercontent.com/upal212/pkg-store/main/store-home.png"/></p>
+<img alt="Store Demo" src="https://raw.githubusercontent.com/upal212/pkg-store/main/store-demo.png"/></p>
 
 <p>Step 1: Visit http://ps4h3x.zd.lu/store</p>
 
