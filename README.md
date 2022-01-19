@@ -32,6 +32,14 @@ Step 4: Have fun installing your application with a click of a button!
 
 ----------
 
+## Working Applications/Themes
+
+<b>All the applications and themes are now functional.</b>
+
+----------
+
+----------
+
 ## Credits
 
 Do follow the individual licenses of these files as supplied by the authors.
