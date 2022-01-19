@@ -1,4 +1,4 @@
-# PS4 PKG Store (Beta)
+# PS4 PKG Store
 
 <p align="center">
 <img alt="Store Home" src="https://raw.githubusercontent.com/upal212/pkg-store/master/store-home.png"/></p>
