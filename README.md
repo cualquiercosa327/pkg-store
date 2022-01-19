@@ -10,7 +10,7 @@ Step 2: Enter the IP of your PS4
 
 Step 3: Select your application/game/theme and hit install.
 
-Step 4: Have fun!
+Step 4: Have fun installing your application with a click of a button!
 
 <b>**Make sure to run the Remote Package Installer on the console before visiting the website.</b>
 
@@ -20,7 +20,15 @@ Step 4: Have fun!
 
 <b>After the application/game/theme has been installed the website will give you the option of uninstalling it as well.</b>
 
-<b>Kindly note that games are not intended to be working on this beta release!</b>
+----------
+
+## Working Games
+
+<b>FIFA 22/F1 2021/Far Cry 6/GTA: The Trilogy/Resident Evil Village/Biomutant</b>
+
+<b>Kindly note that other games are not intended to be working on this beta release!</b>
+
+----------
 
 ----------
 
