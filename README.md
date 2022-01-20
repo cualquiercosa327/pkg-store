@@ -24,7 +24,17 @@ Step 4: Have fun installing your application with a click of a button!
 
 ## Working Games
 
-<b>FIFA 22/F1 2021/Far Cry 6/GTA: The Trilogy/Resident Evil Village/Biomutant/Alan Wake Remastered (Including the updates).</b>
+<b>&bull; FIFA 22
+&bull; F1 2021
+&bull; Far Cry 6
+&bull; GTA: The Trilogy
+&bull; Resident Evil Village
+&bull; Biomutant
+&bull; Alan Wake Remastered
+&bull; Ghost of Tsushima Directors Cut
+&bull; Marvel's Guardians of the Galaxy
+&bull; Bloodborne</b>
+<p><b>(Including the updates)</b></p>
 
 <b>Kindly note that other games are not intended to be working on this beta release!</b>
 
