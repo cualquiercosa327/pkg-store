@@ -33,7 +33,8 @@ Step 4: Have fun installing your application with a click of a button!
 &bull; Alan Wake Remastered
 &bull; Ghost of Tsushima Directors Cut
 &bull; Marvel's Guardians of the Galaxy
-&bull; Bloodborne</b>
+&bull; Bloodborne
+&bull; Super Mario 64</b>
 <p><b>(Including the updates)</b></p>
 
 <b>Kindly note that other games are not intended to be working on this beta release!</b>
