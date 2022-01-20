@@ -24,7 +24,7 @@ Step 4: Have fun installing your application with a click of a button!
 
 ## Working Games
 
-<b>FIFA 22/F1 2021/Far Cry 6/GTA: The Trilogy/Resident Evil Village/Biomutant</b>
+<b>FIFA 22/F1 2021/Far Cry 6/GTA: The Trilogy/Resident Evil Village/Biomutant/Alan Wake Remastered (Including the updates).</b>
 
 <b>Kindly note that other games are not intended to be working on this beta release!</b>
 
@@ -32,7 +32,7 @@ Step 4: Have fun installing your application with a click of a button!
 
 ## Working Applications/Themes
 
-<b>All the applications and themes are now functional.</b>
+<b>All the applications and themes are now functional including the emulators.</b>
 
 ----------
 
